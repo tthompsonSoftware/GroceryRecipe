@@ -1,0 +1,7 @@
+My basic idea for this software will encompass a few simple ideas
+
+- connect to a sql database that holds recipes ingredients
+- Allow queries using js to the database using postman or something similar
+- Eventually add a front end maybe with gui?
+- Control sql changes using sql migrations or something similar to learn better database control
+- Github Actions?
